@@ -1,0 +1,2 @@
+from MLOps_S1_FinalExercise.models.model import MyNeuralNet
+from MLOps_S1_FinalExercise.predict_model import predict
